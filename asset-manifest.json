@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sourdough-adjuster/static/css/main.e6c13ad2.css",
+    "main.js": "/sourdough-adjuster/static/js/main.72f9e8fa.js",
+    "index.html": "/sourdough-adjuster/index.html",
+    "main.e6c13ad2.css.map": "/sourdough-adjuster/static/css/main.e6c13ad2.css.map",
+    "main.72f9e8fa.js.map": "/sourdough-adjuster/static/js/main.72f9e8fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.72f9e8fa.js"
+  ]
+}
